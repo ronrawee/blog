@@ -1,2 +1,2 @@
 <hr>
-<p class="text-center">Copyright  - All Right Reserved</p>
+<p class="text-center">Copyright ronrawee - All Right Reserved</p>
